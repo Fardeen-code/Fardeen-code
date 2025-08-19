@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/hjsdh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shaik_Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/udaykiran243" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-udaykiran243-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/Fardeen-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Fardeen-code-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
