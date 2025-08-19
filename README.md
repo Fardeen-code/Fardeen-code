@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Fardeen</h1>
 <h3 align="center">A passionate Cybersecurity enthusiast and Full Stack Developer from Guntur, AP, India</h3>
 
+<h3 align="center">🔗 Connect with me</h3>
 <p align="center">
   <a href="mailto:fardeensk510@gmail.com">
     <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
@@ -12,6 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-Fardeen--code-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
