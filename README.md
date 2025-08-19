@@ -34,7 +34,7 @@ I am enthusiastic about leveraging my skills in Cybersecurity and Full Stack Dev
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" title="Flutter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Kali_Linux_Logo.svg" alt="Kali Linux" width="40" height="40" title="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/Alhadis/dynamicons/master/icons/kali.png" alt="Kali Linux" width="40" height="40" title="Kali Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
 </p>
 
