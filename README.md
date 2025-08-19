@@ -74,11 +74,10 @@ I am enthusiastic about leveraging my skills in Cybersecurity and Full Stack Dev
 ---
 
 ### ⚡ GitHub Stats
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=udaykiran243&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykiran243&theme=dark" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykiran243&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fardeen-code&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Fardeen-code&theme=dark" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fardeen-code&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
 
 ---
