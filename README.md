@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shaik Fardeen</h1>
 <h3 align="center">A passionate Cybersecurity enthusiast and Full Stack Developer from Guntur, AP, India</h3>
 
-<h3 align="center">🔗 Connect with me</h3>
+<h3 align="center">👋 Let's Connect!</h3>
 <p align="center">
-  <a href="mailto:fardeensk510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:fardeensk510@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sk-fardeen-a80776298/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/hjsdh" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Fardeen-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Fardeen--code-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/Fardeen-code" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Fardeen--code-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
+<p align="center" style="font-style: italic; font-size: 14px; color: #888;">
+  Always happy to collaborate, connect, and create amazing things together! 🚀
+</p>
 
 ---
 
