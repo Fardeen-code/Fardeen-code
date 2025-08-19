@@ -3,15 +3,18 @@
 
 <p align="center">
   <a href="mailto:fardeensk510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/hjsdh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaik_Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shaik_Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Fardeen-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Fardeen-code-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Fardeen-code-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
