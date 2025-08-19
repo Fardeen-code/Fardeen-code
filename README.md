@@ -6,7 +6,7 @@
   <a href="mailto:fardeensk510@gmail.com">
     <img src="https://img.shields.io/badge/Email-fardeensk510@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/hjsdh" target="_blank">
+  <a href="https://www.linkedin.com/in/sk-fardeen-a80776298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Fardeen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Fardeen-code" target="_blank">
